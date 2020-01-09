@@ -10,7 +10,7 @@ import koneksi.MySQLConnection;
 
 /**
  *
- * @author Andika
+ * @author Fiah
  */
 public class Tampilan {
     
