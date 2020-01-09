@@ -22,7 +22,7 @@ import peminjaman.Book;
 import static peminjaman.Book.input;
 /**
  *
- * @author Andika
+ * @author Tegar
  */
 public class Peminjaman extends Denda{
     int idPeminjaman;
