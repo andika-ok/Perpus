@@ -14,7 +14,7 @@ import koneksi.MySQLConnection;
 import java.util.Scanner;
 /**
  *
- * @author Andika
+ * @author jihan
  */
 public class Book {
     // atribut buku
